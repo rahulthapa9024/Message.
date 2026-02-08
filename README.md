@@ -7,7 +7,7 @@
 # 🌐 Live Preview
 
 🔗 Deployed App:
-https://store-frontend-orcin.vercel.app/
+https://chat-frontend-nine-pi.vercel.app/
 
 ⚠️ Notes:
 
